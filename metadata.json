@@ -1,0 +1,16 @@
+{
+  "name": "puppet-zbxapi",
+  "version": "0.0.1",
+  "author": "Matteo Cerutti",
+  "summary": "Puppet Zabbix type and providers",
+  "license": "Apache-2.0",
+  "source": "https://github.com/m4ce/puppet-zbxapi",
+  "project_page": "https://github.com/m4ce/puppet-zbxapi",
+  "requirements": [
+  {
+    "name": "puppet",
+    "version_requirement": ">=2.7.20 <4.0.0"
+  }
+  ],
+  "description": "Zabbix API module"
+}

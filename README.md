@@ -4,6 +4,9 @@ A collection of Puppet type and providers to automate Zabbix tasks by leveraging
 
 The type and providers are <b>fully idempotent</b>.
 
+## Installation
+Please note that the zbxapi ruby gem (https://rubygems.org/gems/zbxapi) is required on the system where the exported resources will be realized.
+
 ## Usage
 You would typically use exported resources and then realize them on the Zabbix node using spaceship operators.
 
