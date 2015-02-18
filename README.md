@@ -31,3 +31,6 @@ And then realize everything on the Zabbix node using resource collectors (aka sp
 ```
 Zabbix_host <<| |>> -> Zabbix_hostgroup_link <<| |>> -> Zabbix_template_link <<| |>>
 ```
+
+## Contact
+Matteo Cerutti - matteo.cerutti@hotmail.co.uk
