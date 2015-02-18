@@ -3,6 +3,6 @@ class zbxapi ($url, $user, $password) {
     owner => "root",
     group => "root",
     mode => "0600",
-    content => template("zbxapi/zbxapi.yaml")
+    content => template("zbxapi/zbxapi.yaml.erb")
   }
 }
