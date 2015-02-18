@@ -1,0 +1,4 @@
+---
+zbxapi::url: "https://<your_zabbix_server"
+zbxapi::user: "<api_user>"
+zbxapi::password: "<api_password>"
